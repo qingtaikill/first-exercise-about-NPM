@@ -1,0 +1,1 @@
+window.onload=function(){var n=document.getElementById("div");n.onclick=function(){n.style.backgroundColor="red"}};
